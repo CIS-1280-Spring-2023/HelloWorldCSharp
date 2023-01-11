@@ -30,7 +30,7 @@ namespace HelloWorldNoTopLevel
 
         static void VolumeOfCone()
         {
-            //Volume of a cone
+            //Volume of a cone blah
             double radius = GetRadiusFromUser();
             double height = GetHeightFromUser();
             double volume = CalcVolumeOfCone(radius, height);
